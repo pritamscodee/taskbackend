@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "resolvePackageJsonExports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2023",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "paths": {
+      "@nestjs/common": ["./node_modules/@nestjs/common/index.d.ts"],
+      "@nestjs/core": ["./node_modules/@nestjs/core/index.d.ts"],
+      "@nestjs/microservices": ["./node_modules/@nestjs/microservices/index.d.ts"],
+      "@nestjs/websockets": ["./node_modules/@nestjs/websockets/index.d.ts"],
+      "@nestjs/platform-express": ["./node_modules/@nestjs/platform-express/index.d.ts"],
+      "@nestjs/platform-socket.io": ["./node_modules/@nestjs/platform-socket.io/index.d.ts"],
+      "@nestjs/testing": ["./node_modules/@nestjs/testing/index.d.ts"]
+    },
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "noFallthroughCasesInSwitch": false
+  }
+}
