@@ -1,0 +1,26 @@
+.swcrc
+  s_35b2d04beed90e::t_28268bee6099ab 1-6
+package.json
+  s_35b2d04beed90e::t_7f843f17fa561b 15,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "3c28a4198aab43f0086197e03ade551ad82dde3d",
+  "prompts": {},
+  "humans": {
+    "h_8dfeaef981cbe6": {
+      "author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35b2d04beed90e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f825a05ecffeYzUkeT5zT3ftLt",
+        "model": "unknown"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
