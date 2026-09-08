@@ -1,0 +1,25 @@
+src/auth/auth.ts
+  s_cc1f473b107ba6::t_c0370c71a0a17c 60-65
+  s_cc1f473b107ba6::t_b4225a9922020a 55-56,58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7950325cfc70f505278674dbb001e9b4315fedbd",
+  "prompts": {},
+  "humans": {
+    "h_8dfeaef981cbe6": {
+      "author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_cc1f473b107ba6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f804a555cffed49DY32opy00Tw",
+        "model": "unknown"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
