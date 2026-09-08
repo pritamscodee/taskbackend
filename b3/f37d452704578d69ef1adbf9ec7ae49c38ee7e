@@ -1,0 +1,24 @@
+src/realtime/realtime.gateway.ts
+  s_cc1f473b107ba6::t_05f0c81607cbe2 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b3f37d452704578d69ef1adbf9ec7ae49c38ee7e",
+  "prompts": {},
+  "humans": {
+    "h_8dfeaef981cbe6": {
+      "author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_cc1f473b107ba6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f804a555cffed49DY32opy00Tw",
+        "model": "unknown"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
