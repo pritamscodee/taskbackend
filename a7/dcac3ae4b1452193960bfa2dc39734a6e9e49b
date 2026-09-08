@@ -1,0 +1,26 @@
+prisma/migrations/20260907134037_init_better_auth/migration.sql
+  s_528a8d0773c78f::t_a396db84e1956a 1-127
+prisma/migrations/migration_lock.toml
+  s_528a8d0773c78f::t_afc6045ac1697c 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "a7dcac3ae4b1452193960bfa2dc39734a6e9e49b",
+  "prompts": {},
+  "humans": {
+    "h_8dfeaef981cbe6": {
+      "author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_528a8d0773c78f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f840097bcffeTWpfV82Xc0ALN1",
+        "model": "unknown"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
